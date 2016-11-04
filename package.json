@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-paged-find",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gormat/mongoose-page-find.git"
+  },
+  "keywords": [
+    "mongoose",
+    "paged",
+    "find"
+  ],
+  "author": "gormatevosyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gormat/mongoose-page-find/issues"
+  },
+  "homepage": "https://github.com/gormat/mongoose-page-find#readme",
+  "dependencies": {
+    "async": "^2.1.2"
+  }
+}
